@@ -1,7 +1,7 @@
 {
   "name": "ai-voice-outbound",
   "version": "1.0.0",
-  "description": "AI-powered outbound calling system for home remodeling businesses using Retell AI and GHL",
+  "description": "AI-powered outbound calling system for home remodeling businesses using Retell AI and GHL. Delivered in 24 hours. One-time setup, runs forever.",
   "main": "dist/index.js",
   "scripts": {
     "dev": "tsx watch src/index.ts",

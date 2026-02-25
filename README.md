@@ -2,6 +2,31 @@
 
 An automated outbound calling system using Retell AI that connects with GoHighLevel (GHL) calendar for scheduling appointments with home remodeling businesses.
 
+## Delivery
+
+**This can be fully set up and delivered within 24 hours.**
+
+## One-Time Setup
+
+This is a permanent, self-running automation with no ongoing dependencies. Once deployed, it runs forever with no subscription or maintenance fees from me. You own everything — the code, the agent, and the integration.
+
+## The Pitch Script
+
+The AI uses a natural, conversational approach that gets to the point fast (under 30 seconds):
+
+```
+"Hi, this is [AI Name] calling. I know you're probably busy, so I'll be quick.
+I'm reaching out to select remodeling companies in your area about a lead
+generation opportunity. Do you have about 30 seconds?"
+
+"We work with homeowners looking for remodeling projects - things like kitchen
+renovations, bathroom remodels, additions. We pre-qualify these leads and
+connect them with trusted contractors. I'd like to schedule a quick 15-minute
+call to see if this might be a good fit for your business."
+```
+
+It handles objections gracefully (busy, not interested, pricing questions, send info) and always tries to book the calendar appointment.
+
 ## Features
 
 - Natural-sounding AI voice calls using Retell AI
@@ -137,8 +162,25 @@ Modify voice configuration in `src/retell/client.ts`.
 - **Calendar not syncing**: Check GHL API key and location/calendar IDs
 - **Webhook not receiving events**: Ensure webhook URL is publicly accessible
 
+## No Ongoing Costs or Dependencies
+
+This automation runs independently forever. You only pay for:
+- Retell AI usage (per-minute call costs)
+- GoHighLevel subscription (you likely already have this)
+- Hosting (free on Vercel/Railway Render)
+
+No subscription to me, no maintenance fees, no lock-in. The code is yours.
+
 ## Support
 
 For issues or questions, please refer to:
 - [Retell AI Documentation](https://docs.retell.ai)
 - [GoHighLevel API Docs](https://highlevel.stoplight.io/docs/integrations)
+
+## Ownership
+
+This is a one-time setup with no ongoing fees or dependencies. Once deployed:
+- You own the Retell AI agent
+- You own the code
+- No subscription required from me
+- Runs autonomously 24/7
